@@ -1,2 +1,9 @@
-# portraits
+# Portraits
  
+|Mo|Tu|We|Th|Fr|Sa|Su|
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+||||<img src="./day1/result1.jpg" width="92" height="92" />|<img src="./day2/result2.jpg" width="92" height="92" />|<img src="./day3/result3.jpg" width="92" height="92" />|<img src="./day4/result4.jpg" width="92" height="92" />|
+|<img src="./day5/result5.jpg" width="92" height="92" />|<img src="./day6/result6.jpg" width="92" height="92" />|<img src="./day7/result7.jpg" width="92" height="92" />|<img src="./day8/result8.jpg" width="92" height="92" />|<img src="./day9/result9.jpg" width="92" height="92" />|<img src="./day10/result10.jpg" width="92" height="92" />|<img src="./day11/result11.jpg" width="92" height="92" />|
+|<img src="./day12/result12.jpg" width="92" height="92" />|<img src="./day13/result13.jpg" width="92" height="92" />|<img src="./day14/result14.jpg" width="92" height="92" />|<img src="./day15/result15.jpg" width="92" height="92" />|<img src="./day16/result16.jpg" width="92" height="92" />|<img src="./day17/result17.jpg" width="92" height="92" />|<img src="./day18/result18.jpg" width="92" height="92" />|
+|<img src="./day19/result19.jpg" width="92" height="92" />|<img src="./day20/result20.jpg" width="92" height="92" />|<img src="./day21/result21.jpg" width="92" height="92" />|<img src="./day22/result22.jpg" width="92" height="92" />|<img src="./day23/result23.jpg" width="92" height="92" />|<img src="./day24/result24.jpg" width="92" height="92" />|<img src="./day25/result25.jpg" width="92" height="92" />|
+|<img src="./day26/result26.jpg" width="92" height="92" />|<img src="./day27/result27.jpg" width="92" height="92" />|<img src="./day28/result28.jpg" width="92" height="92" />|<img src="./day29/result29.jpg" width="92" height="92" />|<img src="./day30/result30.jpg" width="92" height="92" />|<img src="./day31/result31.jpg" width="92" height="92" />||
