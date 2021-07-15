@@ -1,4 +1,4 @@
-// Portraits, day 14, July 2021
+// Portraits, day 15, July 2021
 // By Roni Kaufman
 // https://ronikaufman.github.io/
 
@@ -15,26 +15,29 @@ void draw() {
   background(0);
   blendMode(ADD);
   
-  float step = 5e-3;
-  float maxD = 4;
-  float minD = 0.5;
-  for (float i = 0; i < 375; i += step) {
-    float x = width/2 + i * cos(i);
-    float y = height/2 + i * sin(i);
-    color c = img.get(int(x), int(y));
+  float phi = PI*(3-sqrt(5));
+  float c = 4;
+  float maxD = 5;
+  float minD = 1.5;
+  for (float i = 0; i < 8100; i++) {
+    float rad = c*sqrt(i);
+    float theta = i*phi;
+    float x = width/2 + rad * cos(theta);
+    float y = height/2 + rad * sin(theta);
+    color col = img.get(int(x), int(y));
     
     fill(255, 0, 0);
-    float r = red(c);
+    float r = red(col);
     circle(x, y, map(r, 0, 255, minD, maxD));
     
     fill(0, 255, 0);
-    float g = green(c);
+    float g = green(col);
     circle(x, y, map(g, 0, 255, minD, maxD));
     
     fill(0, 0, 255);
-    float b = blue(c);
+    float b = blue(col);
     circle(x, y, map(b, 0, 255, minD, maxD));
   }
   
-  save("result14.jpg");
+  save("result15.jpg");
 }
