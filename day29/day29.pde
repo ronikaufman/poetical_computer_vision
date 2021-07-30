@@ -13,6 +13,7 @@ void setup() {
   img = loadImage("../ada.jpg");
   noLoop();
   noStroke();
+  fill(255);
   PFont mono = createFont("Consolas", 20);
   textFont(mono);
   textAlign(LEFT, TOP);
