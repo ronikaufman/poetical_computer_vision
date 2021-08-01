@@ -1,6 +1,7 @@
 # Poetical Computer Vision
 
 ## July 2021
+Click on an image to see it full size.
 
 |Mo|Tu|We|Th|Fr|Sa|Su|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
