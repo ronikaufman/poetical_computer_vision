@@ -1,4 +1,4 @@
-// Portraits, day 9, July 2021
+// Poetical Computer Vision, day 9, July 2021
 // By Roni Kaufman
 // https://ronikaufman.github.io/
 
