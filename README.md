@@ -1,5 +1,7 @@
 # Poetical Computer Vision
 
+31 metamophoses of Ada Lovelace, made with code (Processing).
+
 ## July 2021
 Click on an image to see it full size.
 
